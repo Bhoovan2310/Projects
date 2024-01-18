@@ -1,0 +1,36 @@
+.container {
+    margin: 3vh auto;
+    height: 87vh;
+    background-color: grey;
+}
+.container h1 {
+    position: relative;
+    padding: 1.5rem 3rem;
+}
+p {
+    padding: 1rem 7rem;
+}
+
+button {
+    margin: 1rem 7rem;
+    height: 1.8rem;
+    width: 8rem;
+    font-size: large;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
+
+#results {
+    /* display: inline; */
+    padding: 1rem 7rem;
+    font-size: large;
+    font-weight: bold;
+}
+
+#weight-guide h3 {
+    padding: 1rem 5rem;
+    margin-top: 2rem;
+}
+#weight-guide p {
+    padding: .5rem 7rem;
+}

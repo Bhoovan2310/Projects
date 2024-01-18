@@ -1,0 +1,30 @@
+
+
+table, td {
+    border: 1px solid #e7e7e7;
+    width: 80vw;
+    padding: .5rem;
+}
+th {
+    font-weight: 600;
+    font-size: larger;
+}
+td {
+    color: rgb(247, 247, 96);
+}
+
+.project {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 90vh;
+}
+
+.color {
+    color: aliceblue;
+    display:flex;
+    flex-direction: row;
+}
